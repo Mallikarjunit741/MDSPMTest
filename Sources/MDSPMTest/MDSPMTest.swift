@@ -15,10 +15,4 @@ public class UserModel {
 }
 */
     
-class A() {
-    
-}
 
-class B() {
-    
-}
