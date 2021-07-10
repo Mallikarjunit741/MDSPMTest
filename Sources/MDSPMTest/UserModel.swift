@@ -1,5 +1,11 @@
+//
+//  UserModel.swift
+//  SPMMultiDependenciesTest
+//
+//  Created by Apple on 10/07/21.
+//
 
-/*import Foundation
+import Foundation
 
 public class UserModel {
     
@@ -12,13 +18,4 @@ public class UserModel {
     public func addUser(_ user: User) {
         users.append(user)
     }
-}
-*/
-    
-class A() {
-    
-}
-
-class B() {
-    
 }
