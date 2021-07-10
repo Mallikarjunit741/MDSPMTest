@@ -11,6 +11,10 @@ public class UserModel {
     
     private var users = [User]()
     
+    public init() {
+        
+    }
+    
     public var fetchUsers: [User] {
         users
     }

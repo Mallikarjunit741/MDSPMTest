@@ -10,7 +10,7 @@ import Foundation
 public class User {
     var name: String
     
-    init(name: String) {
+    public init(name: String) {
         self.name = name
     }
 }
